@@ -14,13 +14,13 @@ This project manages song file data and implements efficient search functions us
    
 2. Navigate to the project directory:
    ```bash
-   cd PlayListPOOject
+   cd PlayListPOOject/src
    ```
 
 3. Compile the project:
 Using GCC or MinGW:
    ```bash
-   g++ src/main.cpp -o app
+   g++ main.cpp -o app
    ```
 
 4. Execution instructions:
